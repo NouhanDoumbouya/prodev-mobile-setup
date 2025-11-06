@@ -139,8 +139,6 @@ prodev-mobile-app-0x00/
       └── ...
 ```
 
----
-
 ## 👤 Author
 
 **Nouhan Doumbouya**
